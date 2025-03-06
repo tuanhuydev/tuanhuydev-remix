@@ -1,0 +1,8 @@
+# Ignore artifacts:
+build
+coverage
+
+# Remix
+node_modules
+public
+.react-router
